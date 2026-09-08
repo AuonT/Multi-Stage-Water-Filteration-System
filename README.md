@@ -28,7 +28,7 @@ An experimental 4-stage packed-bed filtration column designed to evaluate physic
 
 ## Key Results Summary
 
-| Metric | Run 1 (Wetting) | Run 2 | Run 3 |
+| Metric | Run 1 | Run 2 | Run 3 |
 | :--- | :--- | :--- | :--- |
 | **Input Volume** | 250.0mL | 250.0mL | 250.0mL |
 | **Recovered Volume** | 220.0mL | 235.0mL | 236.0mL |
